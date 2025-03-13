@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ASPControlsDemo.aspx.cs" Inherits="Lab10.ASPControlsDemo" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ASPControlsDemo.aspx.cs" Inherits="Lab10.ASPControlsDemo" %>
 
 <!DOCTYPE html>
 
